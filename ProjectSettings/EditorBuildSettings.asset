@@ -8,11 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Islamic Era/Al Azhar Mosque.unity
     guid: fe1c9eb79f018d644aa2363bc782bee7
+  - enabled: 1
+    path: Assets/Scenes/Islamic Era/Al Azhar Mosque - Scene A.unity
+    guid: 899ec481d2d32814aa2677d5ae8982f4
+  - enabled: 1
+    path: Assets/Scenes/Islamic Era/Al Azhar Mosque - Scene B.unity
+    guid: e5d2156b7befd484fa1c1ff25560a892
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: aeecb618e4e36fb47bd34d2f87176884, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
     xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 9aab5198efc99cc438221f6bec557d91, type: 2}
