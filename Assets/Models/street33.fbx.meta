@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: c8215c1095c2ee14f81a246d3752951e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10665121_10203975653370174_5978776036688651736_n
+    second: {fileID: 2800000, guid: 04d1edc8a43efc047a63561c6307147a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10665121_10203975653370174_5978776036688651736_n_NRM
+    second: {fileID: 2800000, guid: 0239c9b16f26fbc49a831f4ec83b94c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelAlder_Diffuse
+    second: {fileID: 2800000, guid: 59b7af5d35be37041b34c19e83b53f50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelAlder_Glossiness
+    second: {fileID: 2800000, guid: caef7eb558235374b959ac6cac6ce73c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelAlder_Normal
+    second: {fileID: 2800000, guid: 078af90c11697e646a7f415cac48c64f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelAlder_Reflection
+    second: {fileID: 2800000, guid: 080ed91d7baa1df47b3764e1f09e2258, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelAlder_ior
+    second: {fileID: 2800000, guid: f31ba8b5f4300be44bd01a040aac1717, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelOak_Diffuse
+    second: {fileID: 2800000, guid: dda4e0ccd426ec243b7e34e13626d31c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelOak_Glossiness
+    second: {fileID: 2800000, guid: bb31e6c3ad44cc848ade5a7b6e566317, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelOak_Normal
+    second: {fileID: 2800000, guid: 1af10a0b0bc739645bce6615ab511e86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelOak_Reflection
+    second: {fileID: 2800000, guid: 85b1eea68da25c64d882326b2598e88d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelOak_ior
+    second: {fileID: 2800000, guid: d2438fc199979114182a087ab816bc6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelWalnut_Diffuse
+    second: {fileID: 2800000, guid: 4e0918e9c1c99cb43a08f2b9d7666319, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelWalnut_Glossiness
+    second: {fileID: 2800000, guid: 1d12bd067fb6af942a424899e251307d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelWalnut_Normal
+    second: {fileID: 2800000, guid: 0da25496189fe014f8064ecf3c902d25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelWalnut_Reflection
+    second: {fileID: 2800000, guid: 662623b0e98ee1848b6a813fed7b596d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarrelWalnut_ior
+    second: {fileID: 2800000, guid: 18e4800b98764be47977f6fb299e56bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Coach1
+    second: {fileID: 2800000, guid: da8b65c960c63b54e8de50d9487056a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Coach2
+    second: {fileID: 2800000, guid: 3d7d9cb14036d2046b7f98892e2d8dbe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Coach3
+    second: {fileID: 2800000, guid: 7ac584a63af59e748b715af5b61430c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Coach4
+    second: {fileID: 2800000, guid: 1a48f1bda0edf35429f2d90cd90cc510, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Coach5
+    second: {fileID: 2800000, guid: 680354ff8b3c3f044ae52c0b3e1cace6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Coach6
+    second: {fileID: 2800000, guid: 38b4d2424aaa5d8418defdf2809db7a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Coach7
+    second: {fileID: 2800000, guid: fa47ea170dd3b04418367e8deb580c03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oreint_02
+    second: {fileID: 2800000, guid: 2321fc23630e7e145a25ea5dd414207d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oreint_02_NRM
+    second: {fileID: 2800000, guid: 2360b3a24b7691448b5b5805d6fc1b7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_23_diffuse
+    second: {fileID: 2800000, guid: 321d712dd74a46a46bdcac18646caee0, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
